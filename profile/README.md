@@ -2,15 +2,14 @@
   
 <img src="https://avatars.githubusercontent.com/u/243813150?s=400&u=78a0e88d6489798dc052350732bc88939211e549&v=4" width='300px'/>
 
----
-
 ## 🧸 AtoI ?
 
 **AtoI**는 C/C++의 `atoi`(ASCII to integer)에서 따온 이름으로,  
 문자를 숫자로 변환하듯 텍스트를 벡터로 바꾸어 의미를 학습하는 NLP 팀입니다.  
 동시에 **Artificial to Intelligence**의 약자로,  
 *Artificial*에서 *Intelligence*로 나아가는 지능형 시스템을 만들겠다는 목표를 담고 있습니다.
-<br/>
+<br>
+<br>
 
 ## 📜 Projects
 
