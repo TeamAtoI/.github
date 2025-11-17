@@ -11,6 +11,43 @@
 <br>
 <br>
 
+## 🧑🏻‍💻 Member
+<br/>
+<div>
+<table border=""4 width="100%">
+  <tr>
+   <td align="center"><a href="http://github.com/rheefine"><img src="https://avatars.githubusercontent.com/u/109448186?v=4" width="180px;" style="vertical-align:top" alt=""/>
+
+   <td align="center"><a href="https://github.com/nerdchanii"><img src="https://avatars.githubusercontent.com/u/63002393?v=4" width="180px;" style="vertical-align:top" alt=""/>
+
+   <td align="center"><a href="https://github.com/dh3668"><img src="https://avatars.githubusercontent.com/u/106420257?v=4" width="180px; style="vertical-align:top" alt=""/>   
+  </tr>
+
+  <tr>
+   <td align="center"><a href="https://github.com/rheefine"><b>이동현</b></br></a></td>
+   <td align="center"><a href="https://github.com/nerdchanii"><b>김예찬</b><br/></a></td>
+   <td align="center"><a href="https://github.com/dh3668"><b>김도훈</b></br></a></td>
+   
+  </tr>
+
+  <tr>
+   <td align="center"><a href="https://github.com/handlecusion"><img src="https://avatars.githubusercontent.com/u/71549570?v=4" width="180px; style="vertical-align:top" alt=""/>
+
+   <td align="center"><a href="http://github.com/alfks"><img src="https://avatars.githubusercontent.com/u/117802772?v=4" width="180px;" style="vertical-align:top" alt=""/>
+
+   <td align="center"><a href="https://github.com/KimSooHyo"><img src="https://avatars.githubusercontent.com/u/138954201?v=4" width="180px;" style="vertical-align:top" alt=""/>
+  </tr>
+
+  <tr>
+   <td align="center"><a href="https://github.com/handlecusion"><b>현윤성</b></a></td>
+   <td align="center"><a href="https://github.com/alfks"><b>문미란</b><br/></a></td>
+   <td align="center"><a href="https://github.com/KimSooHyo"><b>김수효</b></a></td>
+  </tr>
+</table>
+
+<br>
+
+
 ## 📜 Projects
 
 ### Domain Project 1
@@ -21,41 +58,6 @@
 
 ### Final Project 
 <br>
-<br>
-
-## 🧑🏻‍💻 Member
-<br/>
-<div>
-<table border=""4 width="100%">
-  <tr>
-   <td align="center"><a href="http://github.com/rheefine"><img src="https://avatars.githubusercontent.com/u/109448186?v=4" width="180px;" style="vertical-align:top" alt=""/>
-
-   <td align="center"><a href="https://github.com/nerdchanii"><img src="https://avatars.githubusercontent.com/u/63002393?v=4" width="180px;" style="vertical-align:top" alt=""/>
-
-   <td align="center"><a href="https://github.com/"><img src="https://avatars.githubusercontent.com/u/9919?v=4" width="180px; style="vertical-align:top" alt=""/>   
-  </tr>
-
-  <tr>
-   <td align="center"><a href="https://github.com/rheefine"><b>이동현</b></br></a></td>
-   <td align="center"><a href="https://github.com/nerdchanii"><b>김예찬</b><br/></a></td>
-   <td align="center"><a href="https://github.com/"><b>김도훈</b></br></a></td>
-   
-  </tr>
-
-  <tr>
-   <td align="center"><a href="https://github.com/handlecusion"><img src="https://avatars.githubusercontent.com/u/71549570?v=4" width="180px; style="vertical-align:top" alt=""/>
-
-   <td align="center"><a href="http://github.com/"><img src="https://avatars.githubusercontent.com/u/9919?v=4" width="180px;" style="vertical-align:top" alt=""/>
-
-   <td align="center"><a href="https://github.com/"><img src="https://avatars.githubusercontent.com/u/9919?v=4" width="180px;" style="vertical-align:top" alt=""/>
-  </tr>
-
-  <tr>
-   <td align="center"><a href="https://github.com/handlecusion"><b>현윤성</b></a></td>
-   <td align="center"><a href="https://github.com/"><b>문미란</b><br/></a></td>
-   <td align="center"><a href="https://github.com/"><b>김수효</b></a></td>
-  </tr>
-</table>
 
 </div>
 <br/>
